@@ -16,4 +16,3 @@ function isUnique(str) {
 }
 
 const a = isUnique('aba');
-console.log(a);
